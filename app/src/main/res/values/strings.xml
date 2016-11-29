@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="sort_by_most_popular">sort by most Popular</string>
+    <string name="sort_by_top_rated">sort by top rated</string>
+    <string name="sort_by">sort_by</string>
+    <string name="sort_favourites">sortByFavourite</string>
+    <string name="mark_favorite">Make Favourite</string>
+    <string name="mark_unfavorite">Mark unfavorite</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listPlaceholder">Loading…</string>
+    <string name="Review_Not_Available">No Reviews</string>
+    <string name="Trailer_Not_Available">No Videos</string>
+    <string name="added_To_Favourite">Added To Favourites</string>
+    <string name="removed_From_Favourite">Removed from Favourites</string>
+
+</resources>
